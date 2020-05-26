@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590456133567.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1DE4D826",
+    "lastKnownWriteTime" : 2560125521144,
+    "last_content_update" : 1590456133567,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "601E0F9F",
+        "caption" : "Data107_UG",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Data107_UG&cache_key=601E0F9F",
+        "displayedObservations" : 140,
+        "environment" : "",
+        "expression" : "Data107_UG",
+        "object" : "Data107_UG",
+        "preview" : 0,
+        "totalObservations" : 140,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
